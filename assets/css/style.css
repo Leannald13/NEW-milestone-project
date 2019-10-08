@@ -15,7 +15,7 @@
 
 .heading {
     background-color: #8fbc8f !important;
-    width: 100%;
+    width: 100% !important;
  
 }
 
@@ -37,6 +37,46 @@
 }
 
 
+
+/* -------------------------------------------------------------Section general.html */
+
+.box {
+    width: 900px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #A9A9A9;
+    margin-left: 230px;
+     border-color: #2f4f4f;
+    border-radius: 20px;
+}
+
+.second-box {
+    width: 900px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #A9A9A9;
+    margin-left: 230px;
+    border-color: #2f4f4f;
+    border-radius: 20px;
+
+}
+
+h4 {
+    font-weight: 500;
+    color: #2f4f4f;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+
+p {
+    font-weight: 300;
+    color: #2f4f4f;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+}
 
 /* -------------------------------------------------------------Section Contact.html */
 
@@ -64,20 +104,25 @@ h5 {
 
 .menu-color-heading {
     background-color: #8fbc8f;
+   
 }
 
 .color-home {
     background-color: #C0C0C0;
     margin-right: 5px;
+     margin-bottom: 5px;
+    
 }
 
 .color-about {
     background-color: #F0F8FF;
     margin-right: 5px;
+    margin-bottom: 5px;
 }
 
 .color-contact {
-    background-color: 	#DCDCDC;
+    background-color: #DCDCDC;
+     margin-bottom: 5px;
 }
 
 span {

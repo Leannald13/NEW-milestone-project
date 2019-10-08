@@ -37,9 +37,6 @@
 }
 
 
-section {
-    background-color: #8fbc8f;
-}
 
 /* -------------------------------------------------------------Section Contact.html */
 
@@ -62,6 +59,34 @@ h5 {
   
 }
 
+
+/* -------------------------------------------------------------Navbar */
+
+.menu-color-heading {
+    background-color: #8fbc8f;
+}
+
+.color-home {
+    background-color: #C0C0C0;
+    margin-right: 5px;
+}
+
+.color-about {
+    background-color: #F0F8FF;
+    margin-right: 5px;
+}
+
+.color-contact {
+    background-color: 	#DCDCDC;
+}
+
+span {
+    font-size: 25px;
+    font-family: "Raleway", sans-serif;
+    color: #2f4f4f;
+    margin: 8px;
+
+}
 /* -------------------------------------------------------------Footer */
 
 footer {

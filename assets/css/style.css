@@ -26,6 +26,7 @@
     text-align: left;
     font-weight: 100;
     width: 100% !important;
+
     
 }
 
@@ -35,6 +36,7 @@
     padding-bottom: 10px;
     padding-top: 10px;
 }
+
 
 
 
@@ -86,10 +88,16 @@ button {
     margin-top: 5px;
 }
 
+.form {
+    background-color: #8fbc8f;
+    padding-bottom: 20px;
+}
+
 /* -------------------------------------------------------------Navbar */
 
 .menu-color-heading {
     background-color: #8fbc8f;
+    padding-bottom: 20px
    
 }
 
@@ -97,14 +105,22 @@ button {
     background-color: #C0C0C0;
     margin-right: 5px;
      margin-bottom: 5px;
-     width: 140px;
-     height: 50px;
+     width: 160px;
+     height: 70px;
      border-radius: 90px;
+     text-align: center;
+     margin-top: 5px;
+     padding-top: 9px;
      
 }
 
 .color-home:hover {
-    background-color: #fff
+    background-color: #FFF8DC;
+    text-transform: uppercase;
+    color: #2f4f4f;
+    font-weight: 700;
+    transition-duration: 0.25s;
+    transition-timing-function: ease-in-out;
     
 }
 
@@ -113,27 +129,47 @@ button {
     background-color: #F0F8FF;
     margin-right: 5px;
     margin-bottom: 5px;
-    width: 140px;
-    height: 50px;
+    width: 160px;
+    height: 70px;
     border-radius: 90px;
+     text-align: center;
+     margin-top: 5px;
+     padding-top: 9px;
+     
     
 }
 
 .color-about:hover {
-    background-color: #fff
+    background-color: #FFF8DC;
+    text-transform: uppercase;
+    color: #2f4f4f;
+    font-weight: 700;
+    transition-duration: 0.25s;
+    transition-timing-function: ease-in-out;
+    
     
 }
 
 .color-contact {
     background-color: #DCDCDC;
      margin-bottom: 5px;
-     width: 140px;
-     height: 50px;
+     width: 160px;
+     height: 70px;
      border-radius: 90px;
+     text-align: center;
+     margin-top: 5px;
+     padding-top: 9px;
+     
 }
 
 .color-contact:hover {
-    background-color: #fff
+    background-color: #FFF8DC;
+    text-transform: uppercase;
+    color: #2f4f4f;
+    font-weight: 700;
+    transition-duration: 0.25s;
+    transition-timing-function: ease-in-out;
+    
     
 }
 
@@ -145,11 +181,8 @@ span {
     text-align: center;
 }
 
-span:hover {
-    color: #fff
-    
-    
-}
+
+  
 /* -------------------------------------------------------------Footer */
 
 footer {

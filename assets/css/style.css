@@ -40,28 +40,8 @@
 
 /* -------------------------------------------------------------Section general.html */
 
-.box {
-    width: 900px;
-    height: 200px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    background-color: #A9A9A9;
-    margin-left: 230px;
-     border-color: #2f4f4f;
-    border-radius: 20px;
-}
 
-.second-box {
-    width: 900px;
-    height: 200px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    background-color: #A9A9A9;
-    margin-left: 230px;
-    border-color: #2f4f4f;
-    border-radius: 20px;
 
-}
 
 h4 {
     font-weight: 500;
@@ -96,9 +76,15 @@ h5 {
     margin-left: 29px;
     margin-right: 38px;   
     margin-top: 10px;
-  
 }
 
+.btn btn-secondary {
+    margin-top: 70px;
+}
+
+button {
+    margin-top: 5px;
+}
 
 /* -------------------------------------------------------------Navbar */
 
@@ -111,26 +97,58 @@ h5 {
     background-color: #C0C0C0;
     margin-right: 5px;
      margin-bottom: 5px;
+     width: 140px;
+     height: 50px;
+     border-radius: 90px;
+     
+}
+
+.color-home:hover {
+    background-color: #fff
     
 }
+
 
 .color-about {
     background-color: #F0F8FF;
     margin-right: 5px;
     margin-bottom: 5px;
+    width: 140px;
+    height: 50px;
+    border-radius: 90px;
+    
+}
+
+.color-about:hover {
+    background-color: #fff
+    
 }
 
 .color-contact {
     background-color: #DCDCDC;
      margin-bottom: 5px;
+     width: 140px;
+     height: 50px;
+     border-radius: 90px;
+}
+
+.color-contact:hover {
+    background-color: #fff
+    
 }
 
 span {
-    font-size: 25px;
+    font-size: 20px;
     font-family: "Raleway", sans-serif;
     color: #2f4f4f;
     margin: 8px;
+    text-align: center;
+}
 
+span:hover {
+    color: #fff
+    
+    
 }
 /* -------------------------------------------------------------Footer */
 

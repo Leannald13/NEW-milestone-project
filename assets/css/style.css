@@ -33,7 +33,7 @@
 .name {
     font-size: 40px;
     padding-left: 20px;
-    padding-bottom: 10px;
+    padding-bottom: 30px;
     padding-top: 10px;
 }
 
@@ -83,9 +83,11 @@
 
 .blue {
     border-style: solid;
-    border-color: #000000;
-    background-color: #E6E6FA;
+    border-color: #808080;
+    background-color: #F8F8FF;
     text-align: center;
+    padding-bottom: 10px;
+    
 }
 
 
@@ -133,8 +135,8 @@ h5 {
     background-color: #F8F8FF;
     padding-top: 20px;
     padding-bottom: 20px;
-    margin-left: 29px;
-    margin-right: 38px;   
+    margin-left: 25px;
+    margin-right: 30px;   
 }
 
 
@@ -153,7 +155,8 @@ button {
 
 .menu-color-heading {
     background-color: #8fbc8f;
-    padding-bottom: 20px
+    padding-bottom: 40px
+   
    
 }
 

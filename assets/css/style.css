@@ -38,6 +38,52 @@
 }
 
 
+/* -------------------------------------------------------------Section index.html */
+
+.brief {
+    background-color: #f6fef9;
+}
+
+img {
+    position: relative;
+    border; 1px solid green;
+    width: 100px;
+    height: 100px;
+    float: right;
+    
+}
+
+.wrap {
+    width: 30%;
+    height: 60px;
+     border-style: solid;
+     border-color:#000000;
+     margin-bottom: 10px;
+     margin-top: 10px;
+     padding: 5px;
+     font-size: 25px;
+}
+
+.wrap-two {
+    width: 30%;
+    height: 60px;
+     border-style: solid;
+     border-color:#000000;
+     margin-bottom: 10px;
+     padding: 5px;
+     font-size: 25px;
+}
+
+.wrap-three {
+    width: 30%;
+    height: 60px;
+     border-style: solid;
+     border-color:#000000;
+     margin-bottom: 10px;
+     padding: 5px;
+     font-size: 25px;
+}
+
 /* -------------------------------------------------------------Section general.html */
 
 

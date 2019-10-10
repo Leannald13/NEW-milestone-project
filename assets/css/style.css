@@ -40,48 +40,71 @@
 
 /* -------------------------------------------------------------Section index.html */
 
-.brief {
-    background-color: #f6fef9;
-}
 
-img {
-    position: relative;
-    border; 1px solid green;
-    width: 100px;
-    height: 100px;
-    float: right;
+
+
+
+.iconone {
+    font-size: 30px;
+    margin-left: 30px;
+  
+    
     
 }
 
-.wrap {
-    width: 30%;
-    height: 60px;
-     border-style: solid;
-     border-color:#000000;
-     margin-bottom: 10px;
-     margin-top: 10px;
-     padding: 5px;
-     font-size: 25px;
+.icontwo {
+    font-size: 30px;
+    margin-left: 30px;
+    
+    
 }
 
-.wrap-two {
-    width: 30%;
-    height: 60px;
-     border-style: solid;
-     border-color:#000000;
-     margin-bottom: 10px;
-     padding: 5px;
-     font-size: 25px;
+.iconthree {
+    font-size: 30px;
+    margin-left: 30px;
+    
+   
 }
 
-.wrap-three {
-    width: 30%;
-    height: 60px;
-     border-style: solid;
-     border-color:#000000;
-     margin-bottom: 10px;
-     padding: 5px;
-     font-size: 25px;
+.boxone {
+    margin-bottom: 20px;
+    padding-top: 20px;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+.boxtwo {
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
+
+.boxthree {
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+   
+    
+    
+}
+
+.blue {
+    border-style: solid;
+    border-color: #000000;
+    background-color: #E6E6FA;
+    text-align: center;
 }
 
 /* -------------------------------------------------------------Section general.html */
@@ -100,6 +123,14 @@ p {
     color: #2f4f4f;
     font-family: "Raleway", sans-serif;
     text-align: center;
+}
+
+img {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    float: right;
+    
 }
 
 /* -------------------------------------------------------------Section Contact.html */

@@ -82,13 +82,18 @@
 }
 
 .blue {
-    border-style: solid;
-    border-color: #808080;
-    background-color: #F8F8FF;
     text-align: center;
     padding-bottom: 10px;
     
 }
+
+.images {
+    background-color: #F5F5F5;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
 
 
 /* -------------------------------------------------------------Section general.html */
@@ -111,11 +116,28 @@ p {
 
 img {
     position: relative;
-    width: 100px;
-    height: 100px;
-    float: right;
-    
+    width: 210px;
+    height: 180px;
+    margin: 20px;
+    border-style: solid;
+    border-color: #808080;
 }
+
+.campaign {
+    border-style: groove;
+    background-color: #DCDCDC;
+    padding-top: 20px;
+}
+
+.media {
+    border-style: groove;
+    background-color: #DCDCDC;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+
 
 
 /* -------------------------------------------------------------Section Contact.html */
@@ -132,7 +154,7 @@ h5 {
 
 
 .bg-color-contact {
-    background-color: #F8F8FF;
+    background-color: #F5F5F5;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-left: 25px;

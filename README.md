@@ -60,9 +60,10 @@ Statistics for the number of children with a mental health disorder, written on 
 I used aspects of the code from my previous tutorial from The Code Institute where we created a resume website for someone by the name of Rosie. I used it for:
 -The footer and creating my social links. 
 -To create my font awesome icons on the "home page" and then I edited the code for my specfications.
+-I took the "logo" css code from the Rosie website for the main image at the top of the site and edited it to my specifications.
 -I also used some of the code to create my form on the "Let's Talk" page, and then amended the code for my specifications.
--I watched Youtube videos by someone called The Net Ninja: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg this developed my understanding of the bootstrap grid system.
--The content on the "About me" was from Harrison, and I reworded it slightly. 
+I watched Youtube videos by someone called The Net Ninja: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg this developed my understanding of the bootstrap grid system.
+The content on the "About me" was from Harrison, and I reworded it slightly. 
 
 
 

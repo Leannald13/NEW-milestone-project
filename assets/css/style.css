@@ -21,11 +21,12 @@
 
 
 .bg-color-name {
-    font-family: "Raleway", sans-serif;
-    color: #2f4f4f;
+    font-family: 'Mansalva', cursive;
+    color: 	#696969;
     text-align: left;
     font-weight: 100;
     width: 100% !important;
+
 
     
 }
@@ -41,17 +42,6 @@
 /* -------------------------------------------------------------Section index.html */
 
 
-.iconone {
-    font-size: 30px;
-}
-
-.icontwo {
-    font-size: 30px;
-}
-
-.iconthree {
-    font-size: 30px;
-}
 
 .boxone {
     margin-bottom: 20px;
@@ -84,34 +74,49 @@
 .blue {
     text-align: center;
     padding-bottom: 10px;
+    color: #7d7dfc;
     
 }
 
-.images {
-    background-color: #F5F5F5;
+.picture {
+    width: 700px;
+    height: 600px;
     text-align: center;
-    padding-top: 20px;
 }
 
+.picture2 {
+    text-align: center;
+    background-color: #fefec8;
+}
 
+.subheading {
+    font-size: 30px;
+    font-family: 'Mansalva', cursive;
+    color: #7d7dfc;
 
+}
+
+.subhead {
+    font-size: 20px;
+    font-family: 'Mansalva', cursive;
+    color: #7d7dfc;
+    
+}
+
+i {
+    font-size: 50px
+}
 
 /* -------------------------------------------------------------Section general.html */
 
 
-h4 {
-    font-weight: 500;
-    color: #2f4f4f;
-    font-family: "Raleway", sans-serif;
-    text-align: center;
-    padding-top: 10px;
-}
 
 p {
     font-weight: 300;
     color: #2f4f4f;
     font-family: "Raleway", sans-serif;
     text-align: center;
+    font-size: 18px;
 }
 
 img {
@@ -119,26 +124,46 @@ img {
     width: 210px;
     height: 180px;
     margin: 20px;
-    border-style: solid;
-    border-color: #808080;
-}
-
-.campaign {
-    border-style: groove;
-    background-color: #DCDCDC;
-    padding-top: 20px;
+   
 }
 
 .media {
     border-style: groove;
     background-color: #DCDCDC;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.campaign {
+    border-style: groove;
+    background-color: #DCDCDC;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
     text-align: center;
 }
 
+.generalimages {
+    background-color: #F5F5F5;
+    text-align: center;
+}
 
+.aboutme {
+    background-color: #F5F5F5;
+}
 
-
+.indexpics {
+    height: 250px;
+    width: 250px;
+    border-style: double;
+}
 
 /* -------------------------------------------------------------Section Contact.html */
 
@@ -251,8 +276,8 @@ button {
 
 span {
     font-size: 20px;
-    font-family: "Raleway", sans-serif;
-    color: #2f4f4f;
+    font-family: 'Mansalva', cursive;
+    color: 	#696969;
     margin: 8px;
     text-align: center;
 }
@@ -286,14 +311,20 @@ footer {
     font-size: 15px;
     line-height: 7px;
     text-align: center;
-    color: #696969 !important; 
-    background: #f0f8ff;
+    color: #808080 !important; 
+    background-color: #f0f8ff;
     background-position: center;
+}
+
+.social-links li a i:hover {
+    background-color: #FFF8DC;
+    transition: all 0.25s ease-in-out;
 }
 
 .general-sub {
     padding-top: 10px;
-    color: #2f4f4f;
+    color: 	#696969;
+    font-family: 'Mansalva', cursive;
     padding-left: 10px;
     padding-bottom: 20px;
     font-size: 20px;
@@ -305,6 +336,22 @@ footer {
 
 .fa fa-facebook {
     padding-left: 5px;
+}
+
+.fa fa-facebook:hover {
+    font-weight: 900;
+}
+
+.fa fa-instagram:hover {
+    font-weight: 900;
+}
+
+.fa fa-youtube:hover {
+    font-weight: 900;
+}
+
+.fa fa-spotify:hover {
+    font-weight: 900;
 }
 
 .social {

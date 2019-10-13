@@ -82,13 +82,11 @@
     background-color: #DCDCDC;
     padding-top: 60px;
     padding-bottom: 20px;
-
 }
 
 
 
-@media (min-width: 768px) {
-    .subheading {
+.subheading {
         font-size: 30px;
         font-family: 'Mansalva', cursive;
         color: #696969;
@@ -122,10 +120,20 @@
 
 
 .quote {
-    width: 1000px;
+    width: 1050px;
     text-align: center;
     margin-top: 54px;
+    font-family: 'Mansalva', cursive;
+    color: #696969;
+    font-size: 20px;
 }
+
+.conference {
+    background-color: #DCDCDC;
+    text-align: center;
+    padding-top: 30px;
+}
+
 
 
 
@@ -215,7 +223,7 @@ h5 {
 
 
 .bg-color-contact {
-        background-color: #F5F5F5;
+        background-color: #DCDCDC;
         padding-top: 20px;
         padding-bottom: 20px;
         margin-left: 25px;
@@ -228,7 +236,7 @@ button {
 }
 
 .form {
-        background-color: #8fbc8f;
+        background-color: #DCDCDC;
         padding-bottom: 20px;
 }
 
@@ -243,15 +251,16 @@ button {
 
 
 .color-home {
-        background-color: #C0C0C0;
+        background-color: #D8BFD8;
         margin-right: 5px;
         margin-bottom: 5px;
-        width: 160px;
+        width: 170px;
         height: 70px;
         border-radius: 90px;
         text-align: center;
         margin-top: 5px;
         padding-top: 9px;
+        margin-left: 8px;
 }
 
 .color-home:hover {
@@ -268,12 +277,13 @@ button {
         background-color: #F0F8FF;
         margin-right: 5px;
         margin-bottom: 5px;
-        width: 160px;
+        width: 170px;
         height: 70px;
         border-radius: 90px;
         text-align: center;
         margin-top: 5px;
         padding-top: 9px;
+        margin-left: 8px;
 }
 
 .color-about:hover {
@@ -286,14 +296,15 @@ button {
 }
 
 .color-contact {
-        background-color: #DCDCDC;
+        background-color: #B0E0E6;
         margin-bottom: 5px;
-        width: 160px;
+        width: 170px;
         height: 70px;
         border-radius: 90px;
         text-align: center;
         margin-top: 5px;
         padding-top: 9px;
+        margin-left: 8px;
 
 }
 
@@ -306,6 +317,27 @@ button {
         transition-timing-function: ease-in-out;
 }
 
+.color-statistics {
+        background-color: #DCDCDC;
+        margin-bottom: 5px;
+        width: 170px;
+        height: 70px;
+        border-radius: 90px;
+        text-align: center;
+        margin-top: 5px;
+        padding-top: 9px;
+        margin-left: 8px;
+}
+
+.color-statistics:hover {
+        background-color: #FFF8DC;
+        text-transform: uppercase;
+        color: #2f4f4f;
+        font-weight: 700;
+        transition-duration: 0.25s;
+        transition-timing-function: ease-in-out;
+}    
+
 span {
         font-size: 20px;
         font-family: 'Mansalva', cursive;
@@ -313,8 +345,6 @@ span {
         margin: 8px;
         text-align: center;
 }
-
-
 
 
 .container-fluid {

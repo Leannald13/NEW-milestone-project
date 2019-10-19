@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
-/* -------------------------------------------------------------Heading */
+/* -------------------------------------------------------------Heading image and footer image */
 
 @media (min-width: 768px) {
     .logo {
@@ -15,31 +15,6 @@
     }
 }
 
-
-.heading {
-    background-color: #73B1B7!important;
-    width: 100% !important;
-
-}
-
-
-.bg-color-name {
-    font-family: 'Mansalva', cursive;
-    color: #696969;
-    text-align: left;
-    font-weight: 100;
-    width: 100% !important;
-
-
-
-}
-
-.name {
-    font-size: 40px;
-    padding-left: 20px;
-    padding-bottom: 20px;
-    padding-top: 10px;
-}
 
 @media (min-width: 768px) {
     .silhouette {
@@ -94,7 +69,7 @@
 .blue {
     text-align: center;
     color: #7d7dfc;
-    background-color: #DCDCDC;
+    background-color: #e8f4f8;
     padding-top: 40px;
     padding-bottom: 20px;
 }
@@ -119,7 +94,7 @@
 
 
 .list-inline-harrisonquote {
-        background-color: #DCDCDC;
+       background-color: #e8f4f8;
         text-align: left;
 }
 
@@ -129,7 +104,7 @@
     color: #696969;
     font-size: 20px;
     border-style: double;
-    background-color: #E0EEEE;
+    background-color: #E7DCFF;
     padding: 20px;
     margin-top: 60px;
     margin-bottom: 60px;
@@ -170,7 +145,7 @@ img {
 
 .media {
     border-style: groove;
-    background-color: #E0EEEE;
+    background-color: #E7DCFF;
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
@@ -183,7 +158,7 @@ img {
 
 .campaign {
     border-style: groove;
-    background-color: #E0EEEE;
+    background-color: #E7DCFF;
     padding-bottom: 10px;
     padding-top: 10px;
     padding-left: 20px;
@@ -197,12 +172,12 @@ img {
 }
 
 .generalimages {
-    background-color: #DCDCDC;
+    background-color: #e8f4f8;
     text-align: center;
 }
 
 .aboutme {
-        background-color: #DCDCDC;
+        background-color: #e8f4f8;
 }
 
 .bafta {
@@ -221,14 +196,14 @@ img {
         float: left;
         padding-bottom: 60px;
         padding-top: 20px;
-    
+     
     }
 
 }
 
 .picture2 {
     text-align: center;
-    background-color: #DCDCDC;
+    background-color: #e8f4f8;
     padding-top: 40px;
 }
 
@@ -239,6 +214,7 @@ img {
     margin-top: 40px;
     margin-left: 10px;
     color: #696969;
+    font-size: 30px;
  
 }
 
@@ -249,8 +225,28 @@ img {
     margin-bottom: 40px;
     margin-left: 10px;
     color: #696969;
+    text-align: center;
+   
 }
 
+.statistics {
+    font-family: 'Mansalva', cursive;
+    display: inline-block;
+    color: #696969;
+    text-align: center;
+    
+}
+
+.charities {
+    font-family: 'Mansalva', cursive;
+    color: #696969;
+    font-size: 20px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
 
     /* -------------------------------------------------------------Section Contact.html */
     
@@ -259,13 +255,12 @@ h5 {
         font-family: 'Mansalva', cursive;
         font-size: 18px;
         font-weight: 400;
-        padding-top: 5px;
-        padding-bottom: 5px;
+        
 }
 
 
 .bg-color-contact {
-        background-color: #DCDCDC;
+        background-color: #E7DCFF;
         padding-top: 20px;
         padding-bottom: 20px;
         margin-left: 25px;
@@ -278,124 +273,59 @@ button {
 }
 
 .form {
-        background-color: #DCDCDC;
-        padding-bottom: 20px;
-}
-
-
-    /* -------------------------------------------------------------Navbar */
- 
- .menu-color-heading {
-        background-color: #73B1B7;
-        padding-bottom: 20px
- }
-
-
-
-.color-home {
-        background-color: #E0EEEE;
-        margin-right: 5px;
-        margin-bottom: 5px;
-        width: 170px;
-        height: 70px;
-        border-radius: 90px;
-        text-align: center;
-        margin-top: 5px;
-        padding-top: 9px;
-        margin-left: 8px;
-}
-
-.color-home:hover {
-        background-color: #DCDCDC;
-        text-transform: uppercase;
-        color: #2f4f4f;
-        font-weight: 700;
-        transition-duration: 0.25s;
-        transition-timing-function: ease-in-out;
-}
-
-
-.color-about {
-        background-color: #E0EEEE;
-        margin-right: 5px;
-        margin-bottom: 5px;
-        width: 170px;
-        height: 70px;
-        border-radius: 90px;
-        text-align: center;
-        margin-top: 5px;
-        padding-top: 9px;
-        margin-left: 8px;
-}
-
-.color-about:hover {
-        background-color: #DCDCDC;
-        text-transform: uppercase;
-        color: #2f4f4f;
-        font-weight: 700;
-        transition-duration: 0.25s;
-        transition-timing-function: ease-in-out;
-}
-
-.color-contact {
-        background-color: #E0EEEE;
-        margin-bottom: 5px;
-        width: 170px;
-        height: 70px;
-        border-radius: 90px;
-        text-align: center;
-        margin-top: 5px;
-        padding-top: 9px;
-        margin-left: 8px;
-
-}
-
-.color-contact:hover {
-        background-color: #DCDCDC;
-        text-transform: uppercase;
-        color: #2f4f4f;
-        font-weight: 700;
-        transition-duration: 0.25s;
-        transition-timing-function: ease-in-out;
-}
-
-.color-statistics {
-        background-color: #E0EEEE;
-        margin-bottom: 5px;
-        width: 170px;
-        height: 70px;
-        border-radius: 90px;
-        text-align: center;
-        margin-top: 5px;
-        padding-top: 9px;
-        margin-left: 8px;
-}
-
-.color-statistics:hover {
-        background-color: #DCDCDC;
-        text-transform: uppercase;
-        color: #2f4f4f;
-        font-weight: 700;
-        transition-duration: 0.25s;
-        transition-timing-function: ease-in-out;
-}    
-
-span {
-        font-size: 20px;
-        font-family: 'Mansalva', cursive;
-        color: #696969;
-        margin: 8px;
-        text-align: center;
-}
-
-
-.container-fluid {
-        padding-right: 15px;
-        padding-left: 15px;
+        background-color: #E7DCFF;
     
 }
 
+.form-background {
+    background-color: #E7DCFF;
+}
 
+
+ /* -------------------------------------------------------------New Navbar */
+  
+  
+
+ .navbar-brand {
+    font-family: 'Mansalva', cursive;
+    font-weight: 540;
+    font-size: 35px;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: #696969 !important;
+    width: 70%;
+  }
+ 
+  
+  .nav-item {
+     font-size: 24px;
+     background-color: #E0EEEE;
+     margin-right: 15px;
+     text-align: center;
+     width: 115px;
+     height: 115px;
+     font-family: 'Mansalva', cursive;
+     border-radius: 90%;
+     padding: 10px;
+    
+  }
+
+
+ .nav-item:hover {
+    background-color: #E7DCFF;
+    font-weight: 600;
+    transition-duration: 0.25s;
+    transition-timing-function: ease-in-out;
+    font-family: 'Mansalva', cursive;
+ }
+
+section nav {
+    background-color: #73B1B7;
+}
+
+.nav-link {
+    color: #696969 !important;
+}
 
     /* -------------------------------------------------------------Footer */
    
@@ -421,8 +351,15 @@ footer {
 }
 
 .social-links li a i:hover {
-        background-color: #DCDCDC;
+        background-color: #E7DCFF;
         transition: all 0.25s ease-in-out;
+        font-weight: 580;
+        width: 42px;
+        height: 42px;
+        border-radius: 50%;
+        text-align: center;
+        font-size: 20px;
+        padding-top: 17px;
 }
 
 .general-sub {
@@ -431,7 +368,7 @@ footer {
         font-family: 'Mansalva', cursive;
         padding-left: 10px;
         padding-bottom: 20px;
-        font-size: 20px;
+        font-size: 25px;
 }
 
 .list-inline-item {

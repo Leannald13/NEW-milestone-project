@@ -211,11 +211,17 @@ img {
 .links {
     font-family: 'Mansalva', cursive;
     padding-right: 30px;
-    margin-top: 40px;
+    margin-top: 10px;
     margin-left: 10px;
     color: #696969;
     font-size: 30px;
+    text-align: center;
  
+}
+
+h3 {
+    line-height: 30px;
+    margin-left: 30px;
 }
 
 .info {
@@ -223,9 +229,9 @@ img {
     padding-right: 30px;
     margin-top: 10px;
     margin-bottom: 40px;
-    margin-left: 10px;
     color: #696969;
     text-align: center;
+    font-size: 20px;
    
 }
 
@@ -242,10 +248,30 @@ img {
     color: #696969;
     font-size: 20px;
     text-align: center;
+    list-style: circle;
+    margin-right: 15px;
 }
 
 ul {
     list-style-type: none;
+}
+
+.charities:hover {
+    text-decoration: none;
+    font-weight: 700;
+    color: #696969;
+}
+
+.circle {
+    font-size: 10px;
+    margin-right: 10px;
+    padding: auto;
+ 
+}
+
+#petition-statistics {
+    margin-left: 35px;
+    margin-top: 5px;
 }
 
     /* -------------------------------------------------------------Section Contact.html */
@@ -253,8 +279,9 @@ ul {
 h5 {
         color: #2f4f4f;
         font-family: 'Mansalva', cursive;
-        font-size: 18px;
+        font-size: 20px;
         font-weight: 400;
+        padding-bottom: 10px;
         
 }
 
@@ -270,6 +297,8 @@ h5 {
 
 button {
         margin-top: 9px;
+        font-family: 'Mansalva', cursive;
+        font-size: 20px;
 }
 
 .form {
@@ -281,6 +310,10 @@ button {
     background-color: #E7DCFF;
 }
 
+#submit {
+    font-family: 'Mansalva', cursive;
+    font-size: 18px;
+}
 
  /* -------------------------------------------------------------New Navbar */
   
@@ -298,12 +331,12 @@ button {
  
   
   .nav-item {
-     font-size: 24px;
+     font-size: 20px;
      background-color: #E0EEEE;
      margin-right: 15px;
      text-align: center;
-     width: 115px;
-     height: 115px;
+     width: 105px;
+     height: 105px;
      font-family: 'Mansalva', cursive;
      border-radius: 90%;
      padding: 10px;
@@ -317,6 +350,9 @@ button {
     transition-duration: 0.25s;
     transition-timing-function: ease-in-out;
     font-family: 'Mansalva', cursive;
+    border-style: solid;
+    border-width: 2.5px;
+    border-color: #696969;
  }
 
 section nav {
@@ -325,7 +361,12 @@ section nav {
 
 .nav-link {
     color: #696969 !important;
+   
 }
+
+
+    
+    
 
     /* -------------------------------------------------------------Footer */
    
@@ -363,7 +404,7 @@ footer {
 }
 
 .general-sub {
-        padding-top: 10px;
+        padding-top: 15px;
         color: #696969;
         font-family: 'Mansalva', cursive;
         padding-left: 10px;
@@ -398,3 +439,11 @@ footer {
 .social {
         padding-top: 12px;
 }
+
+#petition {
+    margin-left: 20px;
+    font-family: 'Mansalva', cursive;
+    font-size: 15px;
+    margin-top: 5px;
+}
+

@@ -204,14 +204,13 @@ img {
 .picture2 {
     text-align: center;
     background-color: #e8f4f8;
-    padding-top: 40px;
+    padding-top: 50px;
 }
 
 
 .links {
     font-family: 'Mansalva', cursive;
     padding-right: 30px;
-    margin-top: 10px;
     margin-left: 10px;
     color: #696969;
     font-size: 30px;
@@ -266,6 +265,7 @@ ul {
     font-size: 10px;
     margin-right: 10px;
     padding: auto;
+    
  
 }
 
@@ -353,6 +353,9 @@ button {
     border-style: solid;
     border-width: 2.5px;
     border-color: #696969;
+    width: 120px;
+    height: 120px;
+    font-size: 20px;
  }
 
 section nav {
@@ -364,9 +367,22 @@ section nav {
    
 }
 
+.nav-link-home {
+    margin-top: 10px;
+}
+    
+.nav-link-about {
+    margin-top: 10px;
+}
 
-    
-    
+.nav-link-speak {
+    margin-top: 10px;
+}
+
+.nav-link-contact {
+    margin-top: 10px;
+
+}
 
     /* -------------------------------------------------------------Footer */
    

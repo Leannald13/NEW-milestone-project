@@ -9,12 +9,13 @@ UX:
 My aim for this website was to keep it simple. I wanted to it to be easy to use so that it would be suitable for children and adults. I therefore opted for a simple design without too much text.
 This website is for children who can be inspired by Harrison's story, and sign the petition. I also wanted it to be for adults and professionals who may presenting opportunities, or professionals in 
 the industry who are interested in taking part in Harrison's podcast and can make contact with him. I want the user to know who Harrison is, what he does, why he does it, and how to make contact with him/get involved.
+I used balsamiq wireframe to create the design of my webpage, and I used this to communicate it to my mentor during our sessions and as part of my planning.
 
 Features:
 The website contains a heading, footer and main section. Images, a navigation bar, paragraphs of content and a form for people to submit their details.
 
 Existing Features:
-Navbar - allows the user to move from page to page and each menu items is labelled appropriately so that the user knows what they are looking at.
+Navbar - allows the user to move from page to page and each menu items is labelled appropriately so that the user knows what they are looking at. This a navbar that collapses on a mobile view.
 Images - are there to provide a break up the page, add more colour and help the page look overall, more visually appealing. It is also a way for people to visually see Harrison's work experience and see the
 events he has taken part in.
 Social links - allows other ways for people to contact Harrison, follow him on social media and link directly to his podcast.
@@ -50,6 +51,8 @@ My github repository for this project contains my files: index.html, general.htm
 
 Media:
 The images that I used came from Harrison. They were photos that were taken for him on his own camera while he took part in various events. The images were taken from his Instagram account.
+The image of the children playing at the bottom of the each page was taken from: featurepic.com "Group of Children Silhouettes Playing"
+The illustation on "Speak Up" was a design I made myself, but the image of the child was taken from: https://www.123rf.com/clipart-vector/sad_girl.html?sti=licwk294dqbytta4jc|
 
 Acknowledgements:
 I recieved inspiration for this project from my nephew who despite having Aspergers and ADHD is already doing amazing work in the world, despite being only 13 years old. If I can use my skills as a developer
@@ -58,12 +61,15 @@ for a good cause and contribute to the world in a positive way, then I believe i
 Credits:
 Statistics for the number of children with a mental health disorder, written on the "home page" was taken from: https://www.independent.co.uk/news/health/mental-health-children-nhs-england-depression-anxiety-report-young-people-a8646211.html
 I used aspects of the code from my previous tutorial from The Code Institute where we created a resume website for someone by the name of Rosie. I used it for:
--The footer and creating my social links. 
--To create my font awesome icons on the "home page" and then I edited the code for my specfications.
--I took the "logo" css code from the Rosie website for the main image at the top of the site and edited it to my specifications.
--I also used some of the code to create my form on the "Let's Talk" page, and then amended the code for my specifications.
+The footer and creating my social links. 
+To create my font awesome icons on the "home" and "speak up" page and then I edited the code for my specfications.
+I took the "logo" css code from the Rosie website for the main image at the top of the site and edited it to my specifications.
+I also used some of the code to create my form on the "speak Up" page, and then amended the code for my specifications.
+My navbar, form and buttons were taken from Bootstrap.
+
 I watched Youtube videos by someone called The Net Ninja: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg this developed my understanding of the bootstrap grid system.
 The content on the "About me" was from Harrison, and I reworded it slightly. 
+Statistics that are listed on the "Speak Up page was take from a number of different websites including: youngmind.org, anxietyuk.org, childrensociety.org, selfharm.co.uk, samaritans.org"
 
 
 

@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
-/* -------------------------------------------------------------Heading image and footer image */
+/* -------------------------------------------------------------Heading image and lower section image */
 
 @media (min-width: 768px) {
     .logo {
@@ -32,7 +32,7 @@
 }
 
 
-/* -------------------------------------------------------------Section index.html */
+/* -------------------------------------------------------------index.html */
 
 .boxone {
     margin-bottom: 20px;
@@ -74,23 +74,17 @@
     padding-bottom: 20px;
 }
 
-
-
 .subheading {
         font-size: 30px;
         font-family: 'Mansalva', cursive;
         color: #696969;
 }
 
-
-
 .subhead {
         font-size: 20px;
         font-family: 'Mansalva', cursive;
         color: #696969;
-
 }
-
 
 
 .list-inline-harrisonquote {
@@ -106,14 +100,10 @@
     border-style: double;
     background-color: #E7DCFF;
     padding: 20px;
-    margin-top: 60px;
-    margin-bottom: 60px;
     display: block;
-    margin-left: 80px;
-    margin-right: 80px;
+    margin: 60px 80px 60px 80px;
     
 }
-
 
 .conference {
     background-color: #73B1B7;
@@ -126,7 +116,9 @@
     height: 250px;
 }
 
-    /* -------------------------------------------------------------Section general.html */
+
+
+    /* ------------------------------------------------------------- general.html */
     
 p {
     font-weight: 300;
@@ -149,10 +141,7 @@ img {
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    margin-top: 40px;
-    margin-bottom: 20px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin: 40px 30px 20px 30px;
     
 }
 
@@ -160,13 +149,8 @@ img {
     border-style: groove;
     background-color: #E7DCFF;
     padding-bottom: 10px;
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-bottom: 30px;
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-top: 40px;
+    padding: 10px 20px 10px 20px;
+    margin: 40px 30px 30px 30px;
     text-align: center;
     
 }
@@ -188,6 +172,7 @@ img {
 
 /* -------------------------------------------------------------Statistics.html */
 
+
 @media (min-width: 992px) {
     .picture {
         width: 650px;
@@ -207,7 +192,6 @@ img {
     padding-top: 50px;
 }
 
-
 .links {
     font-family: 'Mansalva', cursive;
     padding-right: 30px;
@@ -215,7 +199,6 @@ img {
     color: #696969;
     font-size: 30px;
     text-align: center;
- 
 }
 
 h3 {
@@ -231,7 +214,6 @@ h3 {
     color: #696969;
     text-align: center;
     font-size: 20px;
-   
 }
 
 .statistics {
@@ -239,7 +221,6 @@ h3 {
     display: inline-block;
     color: #696969;
     text-align: center;
-    
 }
 
 .charities {
@@ -264,17 +245,24 @@ ul {
 .circle {
     font-size: 10px;
     margin-right: 10px;
-    padding: auto;
-    
- 
+    color: #696969;
 }
 
 #petition-statistics {
-    margin-left: 35px;
+    margin-left: 40px;
     margin-top: 5px;
+    
 }
 
-    /* -------------------------------------------------------------Section Contact.html */
+.petition-link {
+    padding-top: 50px;
+}
+
+
+
+    /* -------------------------------------------------------------Contact.html */
+    
+    
     
 h5 {
         color: #2f4f4f;
@@ -282,7 +270,6 @@ h5 {
         font-size: 20px;
         font-weight: 400;
         padding-bottom: 10px;
-        
 }
 
 
@@ -315,22 +302,22 @@ button {
     font-size: 18px;
 }
 
- /* -------------------------------------------------------------New Navbar */
+
+ /* ------------------------------------------------------------- Navbar */
   
   
 
- .navbar-brand {
+.navbar-brand {
     font-family: 'Mansalva', cursive;
-    font-weight: 540;
+    font-weight: 500;
     font-size: 35px;
     padding-left: 20px;
     padding-top: 10px;
     color: #696969 !important;
     width: 70%;
-  }
+ }
  
-  
-  .nav-item {
+.nav-item {
      font-size: 20px;
      background-color: #E0EEEE;
      margin-right: 15px;
@@ -340,11 +327,10 @@ button {
      font-family: 'Mansalva', cursive;
      border-radius: 90%;
      padding: 10px;
-    
-  }
+}
 
 
- .nav-item:hover {
+.nav-item:hover {
     background-color: #E7DCFF;
     font-weight: 600;
     transition-duration: 0.25s;
@@ -356,7 +342,7 @@ button {
     width: 120px;
     height: 120px;
     font-size: 20px;
- }
+}
 
 section nav {
     background-color: #73B1B7;
@@ -364,25 +350,10 @@ section nav {
 
 .nav-link {
     color: #696969 !important;
+    margin-top: 10px;
    
 }
 
-.nav-link-home {
-    margin-top: 10px;
-}
-    
-.nav-link-about {
-    margin-top: 10px;
-}
-
-.nav-link-speak {
-    margin-top: 10px;
-}
-
-.nav-link-contact {
-    margin-top: 10px;
-
-}
 
     /* -------------------------------------------------------------Footer */
    
@@ -410,7 +381,7 @@ footer {
 .social-links li a i:hover {
         background-color: #E7DCFF;
         transition: all 0.25s ease-in-out;
-        font-weight: 580;
+        font-weight: 500;
         width: 42px;
         height: 42px;
         border-radius: 50%;

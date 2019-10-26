@@ -118,6 +118,12 @@
 }
 }
 
+@media (min-width: 768px) and (max-width: 1024px) {
+    .quote {
+        width: 90%;
+    }
+}
+
 .conference {
     background-color: #73B1B7;
     text-align: center;
@@ -375,10 +381,10 @@ button {
         font-size: 20px;
         background-color: #E0EEEE;
         border-style: solid;
-        border-radius: 0.5px;
+        border-radius: 10%;
         margin: 10px;
-        width: 70%;
-        height: 40px;
+        width: 60%;
+        height: 10px;
         padding-bottom: 70px;
         margin-left: 70px;
         text-align: center;
@@ -393,12 +399,44 @@ button {
         font-size: 20px;
         background-color: #E7DCFF;
         border-style: solid;
-        border-radius: 0.5px;
+        border-radius: 10%;
         margin: 10px;
-        width: 70%;
-        height: 40px;
+        width: 40%;
+        height: 10px;
         padding-bottom: 70px;
         margin-left: 70px;
+        text-align: center;
+        border-color: #696969;
+        transition-duration: 0.25s;
+        transition-timing-function: ease-in-out;
+        font-family: 'Mansalva', cursive;
+        
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+     .nav-item {
+        font-size: 20px;
+        background-color: #E0EEEE;
+        border-style: solid;
+        border-radius: 5%;
+        margin: 10px;
+        width: 100%;
+        text-align: center;
+        border-color: #696969;
+        font-family: 'Mansalva', cursive;
+        
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .nav-item:hover {
+        font-size: 20px;
+        background-color: #E7DCFF;
+        border-style: solid;
+        border-radius: 5%;
+        margin: 10px;
+        width: 100%;
         text-align: center;
         border-color: #696969;
         transition-duration: 0.25s;

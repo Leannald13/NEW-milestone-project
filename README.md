@@ -7,7 +7,7 @@ UX:
 
 The aim of this website is to firstly raise awareness of the seriousness of mental health issues in children in young people in this country to encourage people to sign Harrison’s petition and do their part to support the campaign. The second aim of this website was to promote and market Harrison as a young presenter and increase presenting opportunities, and increase the number of listeners on his podcast. My final aim for this website was to grab the attention of children and young people who are struggling with mental health problems to understand that many children face similar challenges, that they are not alone and there is always someone to talk to. 
 My aim for this website was to convey the message in the simplest way possible. I wanted to it to be easy to use so that it would be suitable for both children and adults. I therefore opted for a simple design without too much text.
-I used balsamiq wireframes to create both a mobile responsive wireframe and desktop. Links:
+I used balsamiq wireframes to create both a mobile responsive wireframe and desktop. The PDF for my wireframes are on my GitHub repository.
 
 Features:
 

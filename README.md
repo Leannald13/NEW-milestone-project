@@ -1,75 +1,104 @@
-Project Name: Harrison Gunn: It's good to talk.
+Project Name:  Harrison Gunn: It's good to talk.
 
-This project is inspired by my 13 year old nephew who runs a campaign with the aim to provide more mental health support to children and young people in the UK. Harrison has a podcast called
-"It's good to talk", where he talks to celebrities and his peers about their experiences with mental health, body image and body confidence. Harrison focuses specifically on how how social media and the media
-in general influences mental health and wellbeing. Harrison is also a BAFTA Kids presenter, interviewing celebrities on their latest projects. Harrison wants to spread his mental health campaign as far as possible
-and I therefore decided to create this website to support his mission.
+This project is inspired by my 13 year old nephew who runs a campaign with the aim to provide more mental health support to children and young people in the UK. Harrison has a podcast called "It's good to talk", where he talks to celebrities and his peers about their experiences with mental health, body image and body confidence. Harrison focuses specifically on how social media and the media in general influences mental health and wellbeing. Harrison is also a BAFTA Kids presenter, interviewing celebrities on their latest projects. Harrison wants to spread his mental health campaign as far as possible and I therefore decided to create this website to support his mission.
+
 
 UX:
-My aim for this website was to keep it simple. I wanted to it to be easy to use so that it would be suitable for children and adults. I therefore opted for a simple design without too much text.
-This website is for children who can be inspired by Harrison's story, and sign the petition. I also wanted it to be for adults and professionals who may presenting opportunities, or professionals in 
-the industry who are interested in taking part in Harrison's podcast and can make contact with him. I want the user to know who Harrison is, what he does, why he does it, and how to make contact with him/get involved.
-I used balsamiq wireframe to create the design of my webpage, and I used this to communicate it to my mentor during our sessions and as part of my planning.
+
+The aim of this website is to firstly raise awareness of the seriousness of mental health issues in children in young people in this country to encourage people to sign Harrison’s petition and do their part to support the campaign. The second aim of this website was to promote and market Harrison as a young presenter and increase presenting opportunities, and increase the number of listeners on his podcast. My final aim for this website was to grab the attention of children and young people who are struggling with mental health problems to understand that many children face similar challenges, that they are not alone and there is always someone to talk to. 
+My aim for this website was to convey the message in the simplest way possible. I wanted to it to be easy to use so that it would be suitable for both children and adults. I therefore opted for a simple design without too much text.
+I used balsamiq wireframes to create both a mobile responsive wireframe and desktop. Links:
 
 Features:
-The website contains a heading, footer and main section. Images, a navigation bar, paragraphs of content and a form for people to submit their details.
 
-Existing Features:
-Navbar - allows the user to move from page to page and each menu items is labelled appropriately so that the user knows what they are looking at. This a navbar that collapses on a mobile view.
-Images - are there to provide a break up the page, add more colour and help the page look overall, more visually appealing. It is also a way for people to visually see Harrison's work experience and see the
-events he has taken part in.
-Social links - allows other ways for people to contact Harrison, follow him on social media and link directly to his podcast.
-petition button - links directly to his petition for people to sign it. Social links and petition button are set to generate a blank page to prevent the user from losing their place on the webiste.
-Form - a direct way for people to contact Harrison. This form is not linked to an email address.
-Paragraphs of text - these have been put into boxes to make it more visually appealing for the user, break up the page and make it look tidier.
+Overview:
+•	Header
+•	Footer
+•	Responsive navbar
+•	X4 pages : 
+   o Home page
+   o About Me page
+   o Statistic & charity links
+   o Contact page
+•	Images
+
+Header:
+A large image of Harrison, which spreads across the width of the screen. This is the first thing the user will see when they arrive at the website.
+
+Footer: 
+Contains each of Harrison’s social links and the link to the petition.
+
+Navbar: 
+My navbar is a Bootstrap navbar which is mobile responsive, and collapses when you switch to a mobile or ipad device. I made each menu item into a circle which grows larger, changes colour and has a thin border, when you hover over them.
+
+Home page:
+Introduces Harrison and summarises what the website is for and what the aim of the campaign is. I used images to break up the page and spread the text, preventing it from looking too overcrowded.
+
+About Me page:
+Provides more detailed information about Harrison’s experience as a young presenter.  It also provides more information about the Mental Health Campaign. I used images to break up the page and spread out the text, preventing it from looking too overcrowded.
+
+Speak Up page:
+Provides statistics on depression, anxiety, self harm and suicide in children in the UK. This aim of this page is for children to understand that they are not alone, and provide links to mental health charities and helplines. The page also contains an image. The picture was found online (link provided in the ‘credits and media’ sections. Aside from the picture itself, I created the rest of the design myself. The aim of this image was to show common fears and worries that children have, and therefore how these worries can lead to mental health disorders.
+
+Contact page:
+This page is a simple form from Bootstrap which would allow the user to fill out their information and contact Harrison. This is for presenting opportunities, or for someone with an inspiring story to ask to join Harrison on his podcast.
+
+Images:
+I used a number of images throughout the website. Two images were taken from the internet (links found in the ‘credits’ and ‘media’ sections. All other images came directly from Harrison to show the user action shots of Harrison presenting at various events and conferences. 
 
 Features left to implement:
-- I would like to make the form link to an email address
-- I would like to add perhaps moving animation or some youtube videos of Harrison recording the podcast live. I would do this to ensure that this website heavily tailored towards a
-younger audience. The colors and the layout is perhaps quite mature for a 13 year old, therefore I would like to add more visual items and animation for the purpose of the younger audience.
+I would like to make the form on the ‘contact’ page, link to an email address. I would also like to be able to add videos or Harrison recording his podcast, or some more animation.
 
 Technologies used:
-I used:
-HTML5 - https://html.com/ - the use of HTML was a requirement for this project. I used it to put together the content of my webpage and define the layout.
-CSS3 - http://www.css3.info/ - the use of CSS was a requirement for this project. I used it to style the HTML layout.
-Bootstrap - https://getbootstrap.com/ - I used bootsrap to help me lay out the structure of my page with its' grid system. I also used it for my form, nav bar, and petition button.
-Font Awesome - https://fontawesome.com/ - I used font awesome on my 'home page' to break up the text with a symbol of a child. This was to try to make the page look more visually appealing and "fun".
-Google Fonts - https://fonts.google.com/ - I wanted to use "raleway" as my font, and I therefore needed to take this from google fonts.
+•	HTML5 - https://html.com/  
+The use of HTML5 was a requirement for this project
+•	CSS3 - http://www.css3.info/
+The use of CC3 was a requirement for this project
+•	Balsamiq wireframes - https://balsamiq.com/
+My mentor suggesting using this wireframe programme to develop my project idea. I created wireframe for both the desktop and mobile
+•	Bootstrap - https://getbootstrap.com/
+I used bootstrap for a framework. I also used a navbar and contact form taken from Bootstrap
+•	Font Awesome - https://fontawesome.com/
+I used this on my “home page” and used an icon of a child instead of using bullet points. I used to make the page look more visually appealing.
+•	Google Fonts - https://fonts.google.com/
+I used a font taken from Google Fonts throughout my website. 
+
 
 Testing:
-I tested the site continously throughout the project. Each change, edit or development I made, I checked how this would function on a mobile device to ensure it looked how I wanted it to. I have tested each of the links to ensure
-that they work. 
-The majority of bugs I encountered throughout the project was to do with something small like a typo. I felt that my greatest challenge was getting my padding and margins correct so that everything
-still looked the way it should when I checked it on a mobile device.
-After regularly testing of the site, I feel confident the links work correctly.
+I tested the site continuously throughout the project. Each change, edit or development I made, I checked how this would function on a mobile device to ensure it looked how I wanted it to. I have tested each of the links to ensure that they work.
+I used a HTML and CSS code validator to look through my code:  https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/. 
+I tested my website on desktop, ipad and mobile devices. I also tested my website across different browsers including: Google Chrome, Internet Explorer and Modzilla.  
+The bug challenges I faced throughout my project was ensuring my website was mobile responsive, however it is has been an excellent learning curve and I feel more confident in this area now. I attempted to solve bug problems in a number of different ways including; using Slack, reading about the topic on websites, watching videos on YouTube. I also had a lot of support from my mentor who helped me with a few challenges. 
+One challenge in particular was to make my collapsed navbar work on a mobile device. I looked at a number of different resources online but seemed unable to resolve it. My mentor talked me through adding the Javascript link from Bootstrap into my code, and this would make my navbar responsive on a mobile device. 
+The other bugs I encountered, I solved by trial and error. I found challenges with getting my margins and padding correct, as well as putting the right combination of colours together. I solved them by trial and error, until I felt satisfied.
 
 Deployment:
-I used github to deploy my code. I pushed the repository regularly so that I could always locate it if for any reason my computer crashed or somehow my code stopped working.
-I am pleased that I did as I do encounter a few problems with AWS Cloud9 during my project where I was unable to access my environments and if this happened on a weekend,
-I was not in a position to contact the office to have it resolved. However, having it github means I could accesss it. I tried hard to make each commit clearly demonstrate what it was that I was deploying. 
-My github repository for this project contains my files: index.html, general.html, contact.html, images, README.md and my CSS files which contains my style.css file.
+I used GitHub to deploy my code. I pushed my repository after I completed each task so ensure it was kept regularly up to date. I also pushed my repositories regularly because I wanted as much experience in using GitHub. 
+My github repository for this project contains my files: index.html, general.html, contact.html, README.md and an “assets” file which contains my images and style.css.
 
 Media:
 The images that I used came from Harrison. They were photos that were taken for him on his own camera while he took part in various events. The images were taken from his Instagram account.
-The image of the children playing at the bottom of the each page was taken from: featurepic.com "Group of Children Silhouettes Playing"
-The illustation on "Speak Up" was a design I made myself, but the image of the child was taken from: https://www.123rf.com/clipart-vector/sad_girl.html?sti=licwk294dqbytta4jc|
+The image of the children playing at the bottom of the each page was taken from: 
+featurepic.com  "Group of Children Silhouettes Playing"
+The illustation on "Speak Up" was a design Icreated myself, but the image of the child was taken from:
+https://www.123rf.com/clipart-vector/sad_girl.html?sti=licwk294dqbytta4jc|
 
 Acknowledgements:
-I recieved inspiration for this project from my nephew who despite having Aspergers and ADHD is already doing amazing work in the world, despite being only 13 years old. If I can use my skills as a developer
-for a good cause and contribute to the world in a positive way, then I believe it is a project worth doing.
+I recieved inspiration for this project from my nephew , who despite having Asperger’s Syndrome and ADHD and only 13 years of age, is already doing amazing work in the world. If I can use my skills as a developer for a good cause and contribute to the world in a positive way, then I believe it is a project worth doing.
 
 Credits:
-Statistics for the number of children with a mental health disorder, written on the "home page" was taken from: https://www.independent.co.uk/news/health/mental-health-children-nhs-england-depression-anxiety-report-young-people-a8646211.html
-I used aspects of the code from my previous tutorial from The Code Institute where we created a resume website for someone by the name of Rosie. I used it for:
-The footer and creating my social links. 
-To create my font awesome icons on the "home" and "speak up" page and then I edited the code for my specfications.
-I took the "logo" css code from the Rosie website for the main image at the top of the site and edited it to my specifications.
-I also used some of the code to create my form on the "speak Up" page, and then amended the code for my specifications.
-My navbar, form and buttons were taken from Bootstrap.
+•	My navbar, form and buttons were taken from Bootstrap.
+•	 "About" page content was from Harrison, and I reworded it slightly. 
+•	"Home” page statistics  were taken from: https://www.independent.co.uk/news/health/mental-health-children-nhs-england-depression-anxiety-report-young-people-a8646211.html
+•	 "Speak Up” page statistics were taken from a number of different websites including: youngmind.org, anxietyuk.org, childrensociety.org, selfharm.co.uk, samaritans.org"
+•	I used aspects of the code from my previous tutorial from The Code Institute where we created a resume website for someone by the name of Rosie. I used it for:
+    o To create my font awesome icons on the "home" and "speak up" page and then I edited the code for my specifications.
+    o I took the "logo" css code from the Rosie website for the main image at the top of the site and edited it to my specifications.
+    o I used some of the code to create my form on the "Speak Up" page, and then amended the code for my specifications.
 
-I watched Youtube videos by someone called The Net Ninja: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg this developed my understanding of the bootstrap grid system.
-The content on the "About me" was from Harrison, and I reworded it slightly. 
-Statistics that are listed on the "Speak Up page was take from a number of different websites including: youngmind.org, anxietyuk.org, childrensociety.org, selfharm.co.uk, samaritans.org"
+•	I watched YouTube videos by The Net Ninja: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg this developed my understanding of the bootstrap grid system.
+
+
 
 
 

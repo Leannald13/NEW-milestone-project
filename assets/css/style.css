@@ -105,6 +105,19 @@
     
 }
 
+@media (max-width: 768px) {
+   .quote {
+    font-family: 'Mansalva', cursive;
+    color: #696969;
+    width: 80%;
+    text-align: center;
+    padding: 20px;
+    margin: 50px 40px 50px 40px;
+  
+   
+}
+}
+
 .conference {
     background-color: #73B1B7;
     text-align: center;

@@ -3,13 +3,13 @@ Project Name:  Harrison Gunn: It's good to talk.
 This project is inspired by my 13 year old nephew who runs a campaign with the aim to provide more mental health support to children and young people in the UK. Harrison has a podcast called "It's good to talk", where he talks to celebrities and his peers about their experiences with mental health, body image and body confidence. Harrison focuses specifically on how social media and the media in general influences mental health and wellbeing. Harrison is also a BAFTA Kids presenter, interviewing celebrities on their latest projects. Harrison wants to spread his mental health campaign as far as possible and I therefore decided to create this website to support his mission.
 
 
-UX:
+## UX:
 
 The aim of this website is to firstly raise awareness of the seriousness of mental health issues in children in young people in this country to encourage people to sign Harrison’s petition and do their part to support the campaign. The second aim of this website was to promote and market Harrison as a young presenter and increase presenting opportunities, and increase the number of listeners on his podcast. My final aim for this website was to grab the attention of children and young people who are struggling with mental health problems to understand that many children face similar challenges, that they are not alone and there is always someone to talk to. 
 My aim for this website was to convey the message in the simplest way possible. I wanted to it to be easy to use so that it would be suitable for both children and adults. I therefore opted for a simple design without too much text.
 I used balsamiq wireframes to create both a mobile responsive wireframe and desktop. The PDF for my wireframes are on my GitHub repository.
 
-Features:
+## Features:
 
 Overview:
 •	Header
@@ -46,10 +46,10 @@ This page is a simple form from Bootstrap which would allow the user to fill out
 Images:
 I used a number of images throughout the website. Two images were taken from the internet (links found in the ‘credits’ and ‘media’ sections. All other images came directly from Harrison to show the user action shots of Harrison presenting at various events and conferences. 
 
-Features left to implement:
+## Features left to implement:
 I would like to make the form on the ‘contact’ page, link to an email address. I would also like to be able to add videos or Harrison recording his podcast, or some more animation.
 
-Technologies used:
+## Technologies used:
 •	HTML5 - https://html.com/  
 The use of HTML5 was a requirement for this project
 •	CSS3 - http://www.css3.info/
@@ -64,7 +64,7 @@ I used this on my “home page” and used an icon of a child instead of using b
 I used a font taken from Google Fonts throughout my website. 
 
 
-Testing:
+## Testing:
 I tested the site continuously throughout the project. Each change, edit or development I made, I checked how this would function on a mobile device to ensure it looked how I wanted it to. I have tested each of the links to ensure that they work.
 I used a HTML and CSS code validator to look through my code:  https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/. 
 I tested my website on desktop, ipad and mobile devices. I also tested my website across different browsers including: Google Chrome, Internet Explorer and Modzilla.  
@@ -72,21 +72,21 @@ The bug challenges I faced throughout my project was ensuring my website was mob
 One challenge in particular was to make my collapsed navbar work on a mobile device. I looked at a number of different resources online but seemed unable to resolve it. My mentor talked me through adding the Javascript link from Bootstrap into my code, and this would make my navbar responsive on a mobile device. 
 The other bugs I encountered, I solved by trial and error. I found challenges with getting my margins and padding correct, as well as putting the right combination of colours together. I solved them by trial and error, until I felt satisfied.
 
-Deployment:
+## Deployment:
 I used GitHub to deploy my code. I pushed my repository after I completed each task so ensure it was kept regularly up to date. I also pushed my repositories regularly because I wanted as much experience in using GitHub. 
 My github repository for this project contains my files: index.html, general.html, contact.html, README.md and an “assets” file which contains my images and style.css.
 
-Media:
+## Media:
 The images that I used came from Harrison. They were photos that were taken for him on his own camera while he took part in various events. The images were taken from his Instagram account.
 The image of the children playing at the bottom of the each page was taken from: 
 featurepic.com  "Group of Children Silhouettes Playing"
 The illustation on "Speak Up" was a design Icreated myself, but the image of the child was taken from:
 https://www.123rf.com/clipart-vector/sad_girl.html?sti=licwk294dqbytta4jc|
 
-Acknowledgements:
+## Acknowledgements:
 I recieved inspiration for this project from my nephew , who despite having Asperger’s Syndrome and ADHD and only 13 years of age, is already doing amazing work in the world. If I can use my skills as a developer for a good cause and contribute to the world in a positive way, then I believe it is a project worth doing.
 
-Credits:
+## Credits:
 •	My navbar, form and buttons were taken from Bootstrap.
 •	 "About" page content was from Harrison, and I reworded it slightly. 
 •	"Home” page statistics  were taken from: https://www.independent.co.uk/news/health/mental-health-children-nhs-england-depression-anxiety-report-young-people-a8646211.html

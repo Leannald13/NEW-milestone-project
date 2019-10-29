@@ -1,4 +1,4 @@
-Project Name:  Harrison Gunn: It's good to talk.
+## Project Name:  Harrison Gunn: It's good to talk.
 
 This project is inspired by my 13 year old nephew who runs a campaign with the aim to provide more mental health support to children and young people in the UK. Harrison has a podcast called "It's good to talk", where he talks to celebrities and his peers about their experiences with mental health, body image and body confidence. Harrison focuses specifically on how social media and the media in general influences mental health and wellbeing. Harrison is also a BAFTA Kids presenter, interviewing celebrities on their latest projects. Harrison wants to spread his mental health campaign as far as possible and I therefore decided to create this website to support his mission.
 

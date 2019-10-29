@@ -7,7 +7,13 @@ This project is inspired by my 13 year old nephew who runs a campaign with the a
 
 The aim of this website is to firstly raise awareness of the seriousness of mental health issues in children in young people in this country to encourage people to sign Harrison’s petition and do their part to support the campaign. The second aim of this website was to promote and market Harrison as a young presenter and increase presenting opportunities, and increase the number of listeners on his podcast. My final aim for this website was to grab the attention of children and young people who are struggling with mental health problems to understand that many children face similar challenges, that they are not alone and there is always someone to talk to. 
 My aim for this website was to convey the message in the simplest way possible. I wanted to it to be easy to use so that it would be suitable for both children and adults. I therefore opted for a simple design without too much text.
-I used balsamiq wireframes to create both a mobile responsive wireframe and desktop. The PDF for my wireframes are on my GitHub repository.
+I used balsamiq wireframes to create both a mobile responsive wireframe and desktop. My wireframes are located in Github: https://github.com/Leannald13/NEW-milestone-project/blob/master/wireframes/html%20and%20css%20milestone%20project%20desktop%20and%20mobile.pdf.
+
+- "As a user I want to learn more about Harrison and what experience he has as a presenter and his Mental Health Campaign."
+- "As a user I want to learn more about the mental health problems children my age are facing too.".
+- "I want to come away from the website and understand what the aim of the website is."
+- "I want the website to be easy to use and pleasant to look at."
+- "I want to look at links on the website without losing my place on the website itself."
 
 ## Features:
 
@@ -75,6 +81,13 @@ The other bugs I encountered, I solved by trial and error. I found challenges wi
 ## Deployment:
 I used GitHub to deploy my code. I pushed my repository after I completed each task so ensure it was kept regularly up to date. I also pushed my repositories regularly because I wanted as much experience in using GitHub. 
 My github repository for this project contains my files: index.html, general.html, contact.html, README.md and an “assets” file which contains my images and style.css.
+
+How to locate my deployment:
+1) Go to https://github.com/Leannald13/NEW-milestone-project
+2) Go to the 'Settings' tab.
+3) Scroll down the page to "Github Pages".
+4) Select the link next to "Your website is published at"
+5) Click:  https://leannald13.github.io/NEW-milestone-project/ 
 
 ## Media:
 The images that I used came from Harrison. They were photos that were taken for him on his own camera while he took part in various events. The images were taken from his Instagram account.
